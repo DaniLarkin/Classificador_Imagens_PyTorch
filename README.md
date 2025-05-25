@@ -23,4 +23,4 @@ Este projeto demonstra proficiência em resolução de problemas reais com IA e 
 
 ## Autoria
 Criado por Dani Van Der Larkin
-[LinkedIn](https://www.linkedin.com/in/danivanderlarkin)
+[LinkedIn](https://www.linkedin.com/in/danielli-van-der-larkin-04ab91164)
